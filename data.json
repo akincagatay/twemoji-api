@@ -1,0 +1,186 @@
+[
+        {
+            "name": "grinning face",
+            "unicode": "😀",
+            "hex": "1F600",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f600.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f600.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "grinning face with big eyes",
+            "unicode": "😃",
+            "hex": "1F603",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f603.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f603.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "grinning face with smiling eyes",
+            "unicode": "😄",
+            "hex": "1F604",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f604.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f604.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "beaming face with smiling eyes",
+            "unicode": "😁",
+            "hex": "1F601",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f601.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f601.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "grinning squinting face",
+            "unicode": "😆",
+            "hex": "1F606",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f606.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f606.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "grinning face with sweat",
+            "unicode": "😅",
+            "hex": "1F605",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f605.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f605.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "rolling on the floor laughing",
+            "unicode": "🤣",
+            "hex": "1F923",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f923.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f923.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "face with tears of joy",
+            "unicode": "😂",
+            "hex": "1F602",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f602.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "slightly smiling face",
+            "unicode": "🙂",
+            "hex": "1F642",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f642.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f642.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "upside-down face",
+            "unicode": "🙃",
+            "hex": "1F643",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f643.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f643.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "melting face",
+            "unicode": "🫠",
+            "hex": "1FAE0",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae0.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae0.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "winking face",
+            "unicode": "😉",
+            "hex": "1F609",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f609.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f609.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face with smiling eyes",
+            "unicode": "😊",
+            "hex": "1F60A",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60a.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60a.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face with halo",
+            "unicode": "😇",
+            "hex": "1F607",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f607.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f607.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face with hearts",
+            "unicode": "🥰",
+            "hex": "1F970",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f970.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f970.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face with heart-eyes",
+            "unicode": "😍",
+            "hex": "1F60D",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60d.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "star-struck",
+            "unicode": "🤩",
+            "hex": "1F929",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f929.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f929.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "face blowing a kiss",
+            "unicode": "😘",
+            "hex": "1F618",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f618.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f618.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "kissing face",
+            "unicode": "😗",
+            "hex": "1F617",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f617.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f617.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face",
+            "unicode": "☺️",
+            "hex": "263A",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/263a.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/263a.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "kissing face with closed eyes",
+            "unicode": "😚",
+            "hex": "1F61A",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61a.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61a.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "kissing face with smiling eyes",
+            "unicode": "😙",
+            "hex": "1F619",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f619.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f619.png",
+            "category": "smileys & emotions"
+        },
+        {
+            "name": "smiling face with tear",
+            "unicode": "🥲",
+            "hex": "1F972",
+            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f972.svg",
+            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f972.png",
+            "category": "smileys & emotions"
+        }
+]
