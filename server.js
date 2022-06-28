@@ -6,9 +6,9 @@ let emoji_data= JSON.parse(rawdata);
 
 
 var app = express();
-
+app.set('port', process.env.PORT || 8080);
  
-app.listen(8080, function(){
+app.listen(app.get('port'), function(){
    console.log("working")
 })
 

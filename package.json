@@ -3,9 +3,6 @@
     "express": "^4.18.1",
     "node": "^18.4.0"
   },
-  "scripts": {
-    "start": "node server.js"
-  },
   "name": "twemojiapi",
   "description": "Basic Twemoji API",
   "version": "1.0.0",
