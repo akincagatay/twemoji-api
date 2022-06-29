@@ -2,7 +2,7 @@ var fs=require('fs');
 const express = require("express");
 let rawdata = fs.readFileSync('data.json');
 let emoji_data= JSON.parse(rawdata);
-
+const cors=require('cors');
 
 
 var app = express();
@@ -11,7 +11,7 @@ app.set('port', process.env.PORT || 8080);
 app.listen(app.get('port'), function(){
    console.log("working")
 })
-
+app.use(cors());
 app.get("/api/allData",function(req, res){
     res.send(emoji_data);
  });
