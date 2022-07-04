@@ -3,4 +3,4 @@ let rawdata = fs.readFileSync('data.json');
 let emoji_data = JSON.parse(rawdata);
 
 
-export default emoji_data;
+export {emoji_data};
