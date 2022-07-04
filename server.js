@@ -1,50 +1,19 @@
-var fs=require('fs');
 const express = require("express");
-let rawdata = fs.readFileSync('data.json');
-let emoji_data= JSON.parse(rawdata);
 const cors=require('cors');
 
+const allData = require("./allData")
+const svgData = require("./svgData")
 
 var app = express();
+app.use(cors());
 app.set('port', process.env.PORT || 8080);
  
 app.listen(app.get('port'), function(){
    console.log("working")
 })
-app.use(cors());
-app.get("/api/allData",function(req, res){
-    res.send(emoji_data);
- });
 
- // Get likely
- app.get('/api/allData/:name',(req,res)=>
- {
-    var name = req.params.name;
-    let gfsList = new Array();
-    for(let i = 0; i < emoji_data.length; i++) 
-    {  
-        let item = emoji_data[i];
-        console.log(item)
-        if(item.name.includes(name.toLowerCase()))
-        {
-            gfsList.push(item) 
-        }     
-    }
-	res.status(200).json(gfsList);         
- })
 
- app.get('/api/svg/:name',(req,res)=>
- {
-    var name = req.params.name;
-    let gfsList = new Array();
-    for(let i = 0; i < emoji_data.length; i++)
-    { 
-        let item = emoji_data[i];
-       
-        if(item.name == name)
-        {
-            gfsList.push(item.svg)  
-        }
-    }     
-	res.status(200).json(gfsList);   
- })
+app.use("/v1/allData",allData);
+app.use("/v1/allData",allData);
+
+
