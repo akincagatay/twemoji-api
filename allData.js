@@ -8,7 +8,7 @@ router.get("/",function(req, res){
  });
 
  // Get likely
- router.get('/:name',(req,res)=>
+ router.get('/name/:name',(req,res)=>
  {
     var name = req.params.name;
     let respondList = new Array();
@@ -24,7 +24,7 @@ router.get("/",function(req, res){
 	res.status(200).json(respondList);         
  })
 
- router.get('/:category',(req,res)=>
+ router.get('/category/:category',(req,res)=>
  {
     var category = req.params.category;
     let respondList = new Array();
