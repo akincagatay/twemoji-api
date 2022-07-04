@@ -1,5 +1,5 @@
 const router = require("express").Router();
-import  emoji_data from require("./data")
+import  {emoji_data} from require("./data")
 
 router.get("/",function(req, res){
     res.send(emoji_data);
