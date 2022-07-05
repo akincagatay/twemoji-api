@@ -1,5 +1,4 @@
-{
-    "Sayfa1": [
+[
         {
             "name": "grinning-face",
             "unicode": "😀",
@@ -2248,5 +2247,4 @@
             "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1fc.png",
             "category": "flags"
         }
-    ]
-}
+]
