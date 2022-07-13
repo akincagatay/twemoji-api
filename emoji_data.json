@@ -1,2250 +1,1469 @@
 [
-        {
-            "name": "grinning-face",
-            "unicode": "😀",
-            "hex": "1F600",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f600.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f600.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "grinning-face-with-big-eyes",
-            "unicode": "😃",
-            "hex": "1F603",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f603.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f603.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "grinning-face-with-smiling-eyes",
-            "unicode": "😄",
-            "hex": "1F604",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f604.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f604.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "beaming-face-with-smiling-eyes",
-            "unicode": "😁",
-            "hex": "1F601",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f601.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f601.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "grinning-squinting-face",
-            "unicode": "😆",
-            "hex": "1F606",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f606.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f606.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "grinning-face-with-sweat",
-            "unicode": "😅",
-            "hex": "1F605",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f605.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f605.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "rolling-on-the-floor-laughing",
-            "unicode": "🤣",
-            "hex": "1F923",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f923.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f923.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "face-with-tears-of-joy",
-            "unicode": "😂",
-            "hex": "1F602",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f602.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "slightly-smiling-face",
-            "unicode": "🙂",
-            "hex": "1F642",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f642.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f642.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "upside-down-face",
-            "unicode": "🙃",
-            "hex": "1F643",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f643.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f643.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "melting-face",
-            "unicode": "🫠",
-            "hex": "1FAE0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae0.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "winking-face",
-            "unicode": "😉",
-            "hex": "1F609",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f609.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f609.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face-with-smiling-eyes",
-            "unicode": "😊",
-            "hex": "1F60A",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60a.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60a.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face-with-halo",
-            "unicode": "😇",
-            "hex": "1F607",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f607.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f607.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face-with-hearts",
-            "unicode": "🥰",
-            "hex": "1F970",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f970.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f970.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face-with-heart-eyes",
-            "unicode": "😍",
-            "hex": "1F60D",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60d.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "star-struck",
-            "unicode": "🤩",
-            "hex": "1F929",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f929.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f929.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "face-blowing-a-kiss",
-            "unicode": "😘",
-            "hex": "1F618",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f618.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f618.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "kissing-face",
-            "unicode": "😗",
-            "hex": "1F617",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f617.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f617.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face",
-            "unicode": "☺️",
-            "hex": "263A",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/263a.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/263a.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "kissing-face-with-closed-eyes",
-            "unicode": "😚",
-            "hex": "1F61A",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61a.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61a.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "kissing-face-with-smiling-eyes",
-            "unicode": "😙",
-            "hex": "1F619",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f619.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f619.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "smiling-face-with-tear",
-            "unicode": "🥲",
-            "hex": "1F972",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f972.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f972.png",
-            "category": "smileys-emotions"
-        },
-        {
-            "name": "ascension-island",
-            "unicode": "🇦🇨",
-            "hex": "1F1E6-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "andorra",
-            "unicode": "🇦🇩",
-            "hex": "1F1E6-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "united-arab-emirates",
-            "unicode": "🇦🇪",
-            "hex": "1F1E6-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "afghanistan",
-            "unicode": "🇦🇫",
-            "hex": "1F1E6-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "antigua-barbuda",
-            "unicode": "🇦🇬",
-            "hex": "1F1E6-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "anguilla",
-            "unicode": "🇦🇮",
-            "hex": "1F1E6-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "albania",
-            "unicode": "🇦🇱",
-            "hex": "1F1E6-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "armenia",
-            "unicode": "🇦🇲",
-            "hex": "1F1E6-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "angola",
-            "unicode": "🇦🇴",
-            "hex": "1F1E6-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "antarctica",
-            "unicode": "🇦🇶",
-            "hex": "1F1E6-1F1F6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f6.png",
-            "category": "flags"
-        },
-        {
-            "name": "argentina",
-            "unicode": "🇦🇷",
-            "hex": "1F1E6-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "american-samoa",
-            "unicode": "🇦🇸",
-            "hex": "1F1E6-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "austria",
-            "unicode": "🇦🇹",
-            "hex": "1F1E6-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "australia",
-            "unicode": "🇦🇺",
-            "hex": "1F1E6-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "aruba",
-            "unicode": "🇦🇼",
-            "hex": "1F1E6-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "åland-islands",
-            "unicode": "🇦🇽",
-            "hex": "1F1E6-1F1FD",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fd.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fd.png",
-            "category": "flags"
-        },
-        {
-            "name": "azerbaijan",
-            "unicode": "🇦🇿",
-            "hex": "1F1E6-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "bosnia-herzegovina",
-            "unicode": "🇧🇦",
-            "hex": "1F1E7-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "barbados",
-            "unicode": "🇧🇧",
-            "hex": "1F1E7-1F1E7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e7.png",
-            "category": "flags"
-        },
-        {
-            "name": "bangladesh",
-            "unicode": "🇧🇩",
-            "hex": "1F1E7-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "belgium",
-            "unicode": "🇧🇪",
-            "hex": "1F1E7-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "burkina-faso",
-            "unicode": "🇧🇫",
-            "hex": "1F1E7-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "bulgaria",
-            "unicode": "🇧🇬",
-            "hex": "1F1E7-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "bahrain",
-            "unicode": "🇧🇭",
-            "hex": "1F1E7-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "burundi",
-            "unicode": "🇧🇮",
-            "hex": "1F1E7-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "benin",
-            "unicode": "🇧🇯",
-            "hex": "1F1E7-1F1EF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ef.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ef.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-barthelemy",
-            "unicode": "🇧🇱",
-            "hex": "1F1E7-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "bermuda",
-            "unicode": "🇧🇲",
-            "hex": "1F1E7-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "brunei",
-            "unicode": "🇧🇳",
-            "hex": "1F1E7-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "bolivia",
-            "unicode": "🇧🇴",
-            "hex": "1F1E7-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "caribbean-netherlands",
-            "unicode": "🇧🇶",
-            "hex": "1F1E7-1F1F6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f6.png",
-            "category": "flags"
-        },
-        {
-            "name": "brazil",
-            "unicode": "🇧🇷",
-            "hex": "1F1E7-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "bahamas",
-            "unicode": "🇧🇸",
-            "hex": "1F1E7-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "bhutan",
-            "unicode": "🇧🇹",
-            "hex": "1F1E7-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "bouvet-island",
-            "unicode": "🇧🇻",
-            "hex": "1F1E7-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "botswana",
-            "unicode": "🇧🇼",
-            "hex": "1F1E7-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "belarus",
-            "unicode": "🇧🇾",
-            "hex": "1F1E7-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "belize",
-            "unicode": "🇧🇿",
-            "hex": "1F1E7-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "canada",
-            "unicode": "🇨🇦",
-            "hex": "1F1E8-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "cocos-islands",
-            "unicode": "🇨🇨",
-            "hex": "1F1E8-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "congo-kinshasa",
-            "unicode": "🇨🇩",
-            "hex": "1F1E8-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "central-african-republic",
-            "unicode": "🇨🇫",
-            "hex": "1F1E8-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "congo-brazzaville",
-            "unicode": "🇨🇬",
-            "hex": "1F1E8-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "switzerland",
-            "unicode": "🇨🇭",
-            "hex": "1F1E8-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "cote-divoire",
-            "unicode": "🇨🇮",
-            "hex": "1F1E8-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "cook-islands",
-            "unicode": "🇨🇰",
-            "hex": "1F1E8-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "chile",
-            "unicode": "🇨🇱",
-            "hex": "1F1E8-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "cameroon",
-            "unicode": "🇨🇲",
-            "hex": "1F1E8-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "china",
-            "unicode": "🇨🇳",
-            "hex": "1F1E8-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "colombia",
-            "unicode": "🇨🇴",
-            "hex": "1F1E8-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "clipperton-island",
-            "unicode": "🇨🇵",
-            "hex": "1F1E8-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "costa-rica",
-            "unicode": "🇨🇷",
-            "hex": "1F1E8-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "cuba",
-            "unicode": "🇨🇺",
-            "hex": "1F1E8-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "cape-verde",
-            "unicode": "🇨🇻",
-            "hex": "1F1E8-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "curacao",
-            "unicode": "🇨🇼",
-            "hex": "1F1E8-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "christmas-island",
-            "unicode": "🇨🇽",
-            "hex": "1F1E8-1F1FD",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fd.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fd.png",
-            "category": "flags"
-        },
-        {
-            "name": "cyprus",
-            "unicode": "🇨🇾",
-            "hex": "1F1E8-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "czechia",
-            "unicode": "🇨🇿",
-            "hex": "1F1E8-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "germany",
-            "unicode": "🇩🇪",
-            "hex": "1F1E9-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "diego-garcia",
-            "unicode": "🇩🇬",
-            "hex": "1F1E9-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "djibouti",
-            "unicode": "🇩🇯",
-            "hex": "1F1E9-1F1EF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ef.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ef.png",
-            "category": "flags"
-        },
-        {
-            "name": "denmark",
-            "unicode": "🇩🇰",
-            "hex": "1F1E9-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "dominica",
-            "unicode": "🇩🇲",
-            "hex": "1F1E9-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "dominican-republic",
-            "unicode": "🇩🇴",
-            "hex": "1F1E9-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "algeria",
-            "unicode": "🇩🇿",
-            "hex": "1F1E9-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "ceuta-melilla",
-            "unicode": "🇪🇦",
-            "hex": "1F1EA-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "ecuador",
-            "unicode": "🇪🇨",
-            "hex": "1F1EA-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "estonia",
-            "unicode": "🇪🇪",
-            "hex": "1F1EA-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "egypt",
-            "unicode": "🇪🇬",
-            "hex": "1F1EA-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "western-sahara",
-            "unicode": "🇪🇭",
-            "hex": "1F1EA-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "eritrea",
-            "unicode": "🇪🇷",
-            "hex": "1F1EA-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "spain",
-            "unicode": "🇪🇸",
-            "hex": "1F1EA-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "ethiopia",
-            "unicode": "🇪🇹",
-            "hex": "1F1EA-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "european-union",
-            "unicode": "🇪🇺",
-            "hex": "1F1EA-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "finland",
-            "unicode": "🇫🇮",
-            "hex": "1F1EB-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "fiji",
-            "unicode": "🇫🇯",
-            "hex": "1F1EB-1F1EF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1ef.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1ef.png",
-            "category": "flags"
-        },
-        {
-            "name": "falkland-islands",
-            "unicode": "🇫🇰",
-            "hex": "1F1EB-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "micronesia",
-            "unicode": "🇫🇲",
-            "hex": "1F1EB-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "faroe-islands",
-            "unicode": "🇫🇴",
-            "hex": "1F1EB-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "france",
-            "unicode": "🇫🇷",
-            "hex": "1F1EB-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "gabon",
-            "unicode": "🇬🇦",
-            "hex": "1F1EC-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "united-kingdom",
-            "unicode": "🇬🇧",
-            "hex": "1F1EC-1F1E7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
-            "category": "flags"
-        },
-        {
-            "name": "grenada",
-            "unicode": "🇬🇩",
-            "hex": "1F1EC-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "georgia",
-            "unicode": "🇬🇪",
-            "hex": "1F1EC-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "french-guiana",
-            "unicode": "🇬🇫",
-            "hex": "1F1EC-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "guernsey",
-            "unicode": "🇬🇬",
-            "hex": "1F1EC-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "ghana",
-            "unicode": "🇬🇭",
-            "hex": "1F1EC-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "gibraltar",
-            "unicode": "🇬🇮",
-            "hex": "1F1EC-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "greenland",
-            "unicode": "🇬🇱",
-            "hex": "1F1EC-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "gambia",
-            "unicode": "🇬🇲",
-            "hex": "1F1EC-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "guinea",
-            "unicode": "🇬🇳",
-            "hex": "1F1EC-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "guadeloupe",
-            "unicode": "🇬🇵",
-            "hex": "1F1EC-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "equatorial-guinea",
-            "unicode": "🇬🇶",
-            "hex": "1F1EC-1F1F6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f6.png",
-            "category": "flags"
-        },
-        {
-            "name": "greece",
-            "unicode": "🇬🇷",
-            "hex": "1F1EC-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "south-georgia",
-            "unicode": "🇬🇸",
-            "hex": "1F1EC-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "guatemala",
-            "unicode": "🇬🇹",
-            "hex": "1F1EC-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "guam",
-            "unicode": "🇬🇺",
-            "hex": "1F1EC-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "guinea-bissau",
-            "unicode": "🇬🇼",
-            "hex": "1F1EC-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "guyana",
-            "unicode": "🇬🇾",
-            "hex": "1F1EC-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "hong-kong-sar",
-            "unicode": "🇭🇰",
-            "hex": "1F1ED-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "heard-mcdonald",
-            "unicode": "🇭🇲",
-            "hex": "1F1ED-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "honduras",
-            "unicode": "🇭🇳",
-            "hex": "1F1ED-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "croatia",
-            "unicode": "🇭🇷",
-            "hex": "1F1ED-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "haiti",
-            "unicode": "🇭🇹",
-            "hex": "1F1ED-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "hungary",
-            "unicode": "🇭🇺",
-            "hex": "1F1ED-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "canary-islands",
-            "unicode": "🇮🇨",
-            "hex": "1F1EE-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "indonesia",
-            "unicode": "🇮🇩",
-            "hex": "1F1EE-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "ireland",
-            "unicode": "🇮🇪",
-            "hex": "1F1EE-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "israel",
-            "unicode": "🇮🇱",
-            "hex": "1F1EE-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "isle-of-man",
-            "unicode": "🇮🇲",
-            "hex": "1F1EE-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "india",
-            "unicode": "🇮🇳",
-            "hex": "1F1EE-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "british-indian-ocean",
-            "unicode": "🇮🇴",
-            "hex": "1F1EE-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "iraq",
-            "unicode": "🇮🇶",
-            "hex": "1F1EE-1F1F6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f6.png",
-            "category": "flags"
-        },
-        {
-            "name": "iran",
-            "unicode": "🇮🇷",
-            "hex": "1F1EE-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "iceland",
-            "unicode": "🇮🇸",
-            "hex": "1F1EE-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "italy",
-            "unicode": "🇮🇹",
-            "hex": "1F1EE-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "jersey",
-            "unicode": "🇯🇪",
-            "hex": "1F1EF-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "jamaica",
-            "unicode": "🇯🇲",
-            "hex": "1F1EF-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "jordan",
-            "unicode": "🇯🇴",
-            "hex": "1F1EF-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "japan",
-            "unicode": "🇯🇵",
-            "hex": "1F1EF-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "kenya",
-            "unicode": "🇰🇪",
-            "hex": "1F1F0-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "kyrgyzstan",
-            "unicode": "🇰🇬",
-            "hex": "1F1F0-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "cambodia",
-            "unicode": "🇰🇭",
-            "hex": "1F1F0-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "kiribati",
-            "unicode": "🇰🇮",
-            "hex": "1F1F0-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "comoros",
-            "unicode": "🇰🇲",
-            "hex": "1F1F0-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-kitts-nevis",
-            "unicode": "🇰🇳",
-            "hex": "1F1F0-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "north-korea",
-            "unicode": "🇰🇵",
-            "hex": "1F1F0-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "south-korea",
-            "unicode": "🇰🇷",
-            "hex": "1F1F0-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "kuwait",
-            "unicode": "🇰🇼",
-            "hex": "1F1F0-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "cayman-islands",
-            "unicode": "🇰🇾",
-            "hex": "1F1F0-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "kazakhstan",
-            "unicode": "🇰🇿",
-            "hex": "1F1F0-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f0-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "laos",
-            "unicode": "🇱🇦",
-            "hex": "1F1F1-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "lebanon",
-            "unicode": "🇱🇧",
-            "hex": "1F1F1-1F1E7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e7.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-lucia",
-            "unicode": "🇱🇨",
-            "hex": "1F1F1-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "liechtenstein",
-            "unicode": "🇱🇮",
-            "hex": "1F1F1-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "sri-lanka",
-            "unicode": "🇱🇰",
-            "hex": "1F1F1-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "liberia",
-            "unicode": "🇱🇷",
-            "hex": "1F1F1-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "lesotho",
-            "unicode": "🇱🇸",
-            "hex": "1F1F1-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "lithuania",
-            "unicode": "🇱🇹",
-            "hex": "1F1F1-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "luxembourg",
-            "unicode": "🇱🇺",
-            "hex": "1F1F1-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "latvia",
-            "unicode": "🇱🇻",
-            "hex": "1F1F1-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "libya",
-            "unicode": "🇱🇾",
-            "hex": "1F1F1-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "morocco",
-            "unicode": "🇲🇦",
-            "hex": "1F1F2-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "monaco",
-            "unicode": "🇲🇨",
-            "hex": "1F1F2-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "moldova",
-            "unicode": "🇲🇩",
-            "hex": "1F1F2-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "montenegro",
-            "unicode": "🇲🇪",
-            "hex": "1F1F2-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-martin",
-            "unicode": "🇲🇫",
-            "hex": "1F1F2-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "madagascar",
-            "unicode": "🇲🇬",
-            "hex": "1F1F2-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "marshall-islands",
-            "unicode": "🇲🇭",
-            "hex": "1F1F2-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "north-macedonia",
-            "unicode": "🇲🇰",
-            "hex": "1F1F2-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "mali",
-            "unicode": "🇲🇱",
-            "hex": "1F1F2-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "myanmar",
-            "unicode": "🇲🇲",
-            "hex": "1F1F2-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "mongolia",
-            "unicode": "🇲🇳",
-            "hex": "1F1F2-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "macao-sar-china",
-            "unicode": "🇲🇴",
-            "hex": "1F1F2-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "northern-mariana-islands",
-            "unicode": "🇲🇵",
-            "hex": "1F1F2-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "martinique",
-            "unicode": "🇲🇶",
-            "hex": "1F1F2-1F1F6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f6.png",
-            "category": "flags"
-        },
-        {
-            "name": "mauritania",
-            "unicode": "🇲🇷",
-            "hex": "1F1F2-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "montserrat",
-            "unicode": "🇲🇸",
-            "hex": "1F1F2-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "malta",
-            "unicode": "🇲🇹",
-            "hex": "1F1F2-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "mauritius",
-            "unicode": "🇲🇺",
-            "hex": "1F1F2-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "maldives",
-            "unicode": "🇲🇻",
-            "hex": "1F1F2-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "malawi",
-            "unicode": "🇲🇼",
-            "hex": "1F1F2-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "mexico",
-            "unicode": "🇲🇽",
-            "hex": "1F1F2-1F1FD",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fd.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fd.png",
-            "category": "flags"
-        },
-        {
-            "name": "malaysia",
-            "unicode": "🇲🇾",
-            "hex": "1F1F2-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "mozambique",
-            "unicode": "🇲🇿",
-            "hex": "1F1F2-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "namibia",
-            "unicode": "🇳🇦",
-            "hex": "1F1F3-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "new-caledonia",
-            "unicode": "🇳🇨",
-            "hex": "1F1F3-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "niger",
-            "unicode": "🇳🇪",
-            "hex": "1F1F3-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "norfolk-island",
-            "unicode": "🇳🇫",
-            "hex": "1F1F3-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "nigeria",
-            "unicode": "🇳🇬",
-            "hex": "1F1F3-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "nicaragua",
-            "unicode": "🇳🇮",
-            "hex": "1F1F3-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "netherlands",
-            "unicode": "🇳🇱",
-            "hex": "1F1F3-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "norway",
-            "unicode": "🇳🇴",
-            "hex": "1F1F3-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "nepal",
-            "unicode": "🇳🇵",
-            "hex": "1F1F3-1F1F5",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f5.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f5.png",
-            "category": "flags"
-        },
-        {
-            "name": "nauru",
-            "unicode": "🇳🇷",
-            "hex": "1F1F3-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "niue",
-            "unicode": "🇳🇺",
-            "hex": "1F1F3-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "new-zealand",
-            "unicode": "🇳🇿",
-            "hex": "1F1F3-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "oman",
-            "unicode": "🇴🇲",
-            "hex": "1F1F4-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f4-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f4-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "panama",
-            "unicode": "🇵🇦",
-            "hex": "1F1F5-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "peru",
-            "unicode": "🇵🇪",
-            "hex": "1F1F5-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "french-polynesia",
-            "unicode": "🇵🇫",
-            "hex": "1F1F5-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "papua-new-guinea",
-            "unicode": "🇵🇬",
-            "hex": "1F1F5-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "philippines",
-            "unicode": "🇵🇭",
-            "hex": "1F1F5-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "pakistan",
-            "unicode": "🇵🇰",
-            "hex": "1F1F5-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "poland",
-            "unicode": "🇵🇱",
-            "hex": "1F1F5-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-pierre-miquelon",
-            "unicode": "🇵🇲",
-            "hex": "1F1F5-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "pitcairn-islands",
-            "unicode": "🇵🇳",
-            "hex": "1F1F5-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "puerto-rico",
-            "unicode": "🇵🇷",
-            "hex": "1F1F5-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "palestinian-territories",
-            "unicode": "🇵🇸",
-            "hex": "1F1F5-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "portugal",
-            "unicode": "🇵🇹",
-            "hex": "1F1F5-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "palau",
-            "unicode": "🇵🇼",
-            "hex": "1F1F5-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "paraguay",
-            "unicode": "🇵🇾",
-            "hex": "1F1F5-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "qatar",
-            "unicode": "🇶🇦",
-            "hex": "1F1F6-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f6-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f6-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "reunion",
-            "unicode": "🇷🇪",
-            "hex": "1F1F7-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "romania",
-            "unicode": "🇷🇴",
-            "hex": "1F1F7-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "serbia",
-            "unicode": "🇷🇸",
-            "hex": "1F1F7-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "russia",
-            "unicode": "🇷🇺",
-            "hex": "1F1F7-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "rwanda",
-            "unicode": "🇷🇼",
-            "hex": "1F1F7-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "saudi-arabia",
-            "unicode": "🇸🇦",
-            "hex": "1F1F8-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "solomon-islands",
-            "unicode": "🇸🇧",
-            "hex": "1F1F8-1F1E7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1e7.png",
-            "category": "flags"
-        },
-        {
-            "name": "seychelles",
-            "unicode": "🇸🇨",
-            "hex": "1F1F8-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "sudan",
-            "unicode": "🇸🇩",
-            "hex": "1F1F8-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "sweden",
-            "unicode": "🇸🇪",
-            "hex": "1F1F8-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "singapore",
-            "unicode": "🇸🇬",
-            "hex": "1F1F8-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-helena",
-            "unicode": "🇸🇭",
-            "hex": "1F1F8-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "slovenia",
-            "unicode": "🇸🇮",
-            "hex": "1F1F8-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "svalbard-jan",
-            "unicode": "🇸🇯",
-            "hex": "1F1F8-1F1EF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ef.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ef.png",
-            "category": "flags"
-        },
-        {
-            "name": "slovakia",
-            "unicode": "🇸🇰",
-            "hex": "1F1F8-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "sierra-leone",
-            "unicode": "🇸🇱",
-            "hex": "1F1F8-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "san-marino",
-            "unicode": "🇸🇲",
-            "hex": "1F1F8-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "senegal",
-            "unicode": "🇸🇳",
-            "hex": "1F1F8-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "somalia",
-            "unicode": "🇸🇴",
-            "hex": "1F1F8-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "suriname",
-            "unicode": "🇸🇷",
-            "hex": "1F1F8-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "south-sudan",
-            "unicode": "🇸🇸",
-            "hex": "1F1F8-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "sao-tome-principe",
-            "unicode": "🇸🇹",
-            "hex": "1F1F8-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "el-salvador",
-            "unicode": "🇸🇻",
-            "hex": "1F1F8-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "sint-maarten",
-            "unicode": "🇸🇽",
-            "hex": "1F1F8-1F1FD",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fd.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fd.png",
-            "category": "flags"
-        },
-        {
-            "name": "syria",
-            "unicode": "🇸🇾",
-            "hex": "1F1F8-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "eswatini",
-            "unicode": "🇸🇿",
-            "hex": "1F1F8-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f8-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "tristan-da-cunha",
-            "unicode": "🇹🇦",
-            "hex": "1F1F9-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "turks-caicos",
-            "unicode": "🇹🇨",
-            "hex": "1F1F9-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "chad",
-            "unicode": "🇹🇩",
-            "hex": "1F1F9-1F1E9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1e9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1e9.png",
-            "category": "flags"
-        },
-        {
-            "name": "french-southern-territories",
-            "unicode": "🇹🇫",
-            "hex": "1F1F9-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "togo",
-            "unicode": "🇹🇬",
-            "hex": "1F1F9-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "thailand",
-            "unicode": "🇹🇭",
-            "hex": "1F1F9-1F1ED",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ed.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ed.png",
-            "category": "flags"
-        },
-        {
-            "name": "tajikistan",
-            "unicode": "🇹🇯",
-            "hex": "1F1F9-1F1EF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ef.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ef.png",
-            "category": "flags"
-        },
-        {
-            "name": "tokelau",
-            "unicode": "🇹🇰",
-            "hex": "1F1F9-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "timor-leste",
-            "unicode": "🇹🇱",
-            "hex": "1F1F9-1F1F1",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f1.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f1.png",
-            "category": "flags"
-        },
-        {
-            "name": "turkmenistan",
-            "unicode": "🇹🇲",
-            "hex": "1F1F9-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "tunisia",
-            "unicode": "🇹🇳",
-            "hex": "1F1F9-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "tonga",
-            "unicode": "🇹🇴",
-            "hex": "1F1F9-1F1F4",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f4.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f4.png",
-            "category": "flags"
-        },
-        {
-            "name": "turkey",
-            "unicode": "🇹🇷",
-            "hex": "1F1F9-1F1F7",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f7.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f7.png",
-            "category": "flags"
-        },
-        {
-            "name": "trinidad-tobago",
-            "unicode": "🇹🇹",
-            "hex": "1F1F9-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "tuvalu",
-            "unicode": "🇹🇻",
-            "hex": "1F1F9-1F1FB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1fb.png",
-            "category": "flags"
-        },
-        {
-            "name": "taiwan",
-            "unicode": "🇹🇼",
-            "hex": "1F1F9-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1fc.png",
-            "category": "flags"
-        },
-        {
-            "name": "tanzania",
-            "unicode": "🇹🇿",
-            "hex": "1F1F9-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "ukraine",
-            "unicode": "🇺🇦",
-            "hex": "1F1FA-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "uganda",
-            "unicode": "🇺🇬",
-            "hex": "1F1FA-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "us-outlying-islands",
-            "unicode": "🇺🇲",
-            "hex": "1F1FA-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "united-nations",
-            "unicode": "🇺🇳",
-            "hex": "1F1FA-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "united-states",
-            "unicode": "🇺🇸",
-            "hex": "1F1FA-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "uruguay",
-            "unicode": "🇺🇾",
-            "hex": "1F1FA-1F1FE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1fe.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1fe.png",
-            "category": "flags"
-        },
-        {
-            "name": "uzbekistan",
-            "unicode": "🇺🇿",
-            "hex": "1F1FA-1F1FF",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1ff.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ff.png",
-            "category": "flags"
-        },
-        {
-            "name": "vatican-city",
-            "unicode": "🇻🇦",
-            "hex": "1F1FB-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "st-vincent-grenadines",
-            "unicode": "🇻🇨",
-            "hex": "1F1FB-1F1E8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1e8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1e8.png",
-            "category": "flags"
-        },
-        {
-            "name": "venezuela",
-            "unicode": "🇻🇪",
-            "hex": "1F1FB-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "british-virgin-islands",
-            "unicode": "🇻🇬",
-            "hex": "1F1FB-1F1EC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ec.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ec.png",
-            "category": "flags"
-        },
-        {
-            "name": "us-virgin-islands",
-            "unicode": "🇻🇮",
-            "hex": "1F1FB-1F1EE",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1ee.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ee.png",
-            "category": "flags"
-        },
-        {
-            "name": "vietnam",
-            "unicode": "🇻🇳",
-            "hex": "1F1FB-1F1F3",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1f3.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1f3.png",
-            "category": "flags"
-        },
-        {
-            "name": "vanuatu",
-            "unicode": "🇻🇺",
-            "hex": "1F1FB-1F1FA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1fa.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1fa.png",
-            "category": "flags"
-        },
-        {
-            "name": "wallis-futuna",
-            "unicode": "🇼🇫",
-            "hex": "1F1FC-1F1EB",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fc-1f1eb.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fc-1f1eb.png",
-            "category": "flags"
-        },
-        {
-            "name": "samoa",
-            "unicode": "🇼🇸",
-            "hex": "1F1FC-1F1F8",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fc-1f1f8.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fc-1f1f8.png",
-            "category": "flags"
-        },
-        {
-            "name": "kosovo",
-            "unicode": "🇽🇰",
-            "hex": "1F1FD-1F1F0",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fd-1f1f0.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fd-1f1f0.png",
-            "category": "flags"
-        },
-        {
-            "name": "yemen",
-            "unicode": "🇾🇪",
-            "hex": "1F1FE-1F1EA",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fe-1f1ea.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fe-1f1ea.png",
-            "category": "flags"
-        },
-        {
-            "name": "mayotte",
-            "unicode": "🇾🇹",
-            "hex": "1F1FE-1F1F9",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1fe-1f1f9.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fe-1f1f9.png",
-            "category": "flags"
-        },
-        {
-            "name": "south-africa",
-            "unicode": "🇿🇦",
-            "hex": "1F1FF-1F1E6",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1e6.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1e6.png",
-            "category": "flags"
-        },
-        {
-            "name": "zambia",
-            "unicode": "🇿🇲",
-            "hex": "1F1FF-1F1F2",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1f2.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1f2.png",
-            "category": "flags"
-        },
-        {
-            "name": "zimbabwe",
-            "unicode": "🇿🇼",
-            "hex": "1F1FF-1F1FC",
-            "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f1ff-1f1fc.svg",
-            "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1fc.png",
-            "category": "flags"
-        }
+    {
+        "name": "grinning-face",
+        "unicode": "😀",
+        "hex": "1F600",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f600.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f600.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "grinning-face-with-big-eyes",
+        "unicode": "😃",
+        "hex": "1F603",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f603.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f603.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "grinning-face-with-smiling-eyes",
+        "unicode": "😄",
+        "hex": "1F604",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f604.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f604.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "beaming-face-with-smiling-eyes",
+        "unicode": "😁",
+        "hex": "1F601",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f601.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f601.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "grinning-squinting-face",
+        "unicode": "😆",
+        "hex": "1F606",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f606.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f606.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "grinning-face-with-sweat",
+        "unicode": "😅",
+        "hex": "1F605",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f605.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f605.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "rolling-on-the-floor-laughing",
+        "unicode": "🤣",
+        "hex": "1F923",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f923.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f923.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "face-with-tears-of-joy",
+        "unicode": "😂",
+        "hex": "1F602",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f602.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "slightly-smiling-face",
+        "unicode": "🙂",
+        "hex": "1F642",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f642.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f642.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "upside-down-face",
+        "unicode": "🙃",
+        "hex": "1F643",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f643.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f643.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "melting-face",
+        "unicode": "🫠",
+        "hex": "1FAE0",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae0.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae0.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "winking-face",
+        "unicode": "😉",
+        "hex": "1F609",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f609.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f609.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "smiling-face-with-smiling-eyes",
+        "unicode": "😊",
+        "hex": "1F60A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "smiling-face-with-halo",
+        "unicode": "😇",
+        "hex": "1F607",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f607.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f607.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-smiling"
+    },
+    {
+        "name": "smiling-face-with-hearts",
+        "unicode": "🥰",
+        "hex": "1F970",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f970.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f970.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "smiling-face-with-heart-eyes",
+        "unicode": "😍",
+        "hex": "1F60D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60d.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "star-struck",
+        "unicode": "🤩",
+        "hex": "1F929",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f929.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f929.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "face-blowing-a-kiss",
+        "unicode": "😘",
+        "hex": "1F618",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f618.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f618.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "kissing-face",
+        "unicode": "😗",
+        "hex": "1F617",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f617.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f617.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "smiling-face",
+        "unicode": "☺️",
+        "hex": "263A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/263a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/263a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "kissing-face-with-closed-eyes",
+        "unicode": "😚",
+        "hex": "1F61A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "kissing-face-with-smiling-eyes",
+        "unicode": "😙",
+        "hex": "1F619",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f619.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f619.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "smiling-face-with-tear",
+        "unicode": "🥲",
+        "hex": "1F972",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f972.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f972.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-affection"
+    },
+    {
+        "name": "face-savoring-food",
+        "unicode": "😋",
+        "hex": "1F60B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60b.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "face-with-tongue",
+        "unicode": "😛",
+        "hex": "1F61B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61b.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "winking-face-with-tongue",
+        "unicode": "😜",
+        "hex": "1F61C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61c.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "zany-face",
+        "unicode": "🤪",
+        "hex": "1F92A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "squinting-face-with-tongue",
+        "unicode": "😝",
+        "hex": "1F61D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61d.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "money-mouth-face",
+        "unicode": "🤑",
+        "hex": "1F911",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f911.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f911.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-tongue"
+    },
+    {
+        "name": "smiling-face-with-open-hands",
+        "unicode": "🤗",
+        "hex": "1F917",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f917.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f917.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "face-with-hand-over-mouth",
+        "unicode": "🤭",
+        "hex": "1F92D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92d.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "face-with-open-eyes-and-hand-over-mouth",
+        "unicode": "🫢",
+        "hex": "1FAE2",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae2.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae2.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "face-with-peeking-eye",
+        "unicode": "🫣",
+        "hex": "1FAE3",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae3.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae3.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "shushing-face",
+        "unicode": "🤫",
+        "hex": "1F92B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92b.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "thinking-face",
+        "unicode": "🤔",
+        "hex": "1F914",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f914.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f914.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "saluting-face",
+        "unicode": "🫡",
+        "hex": "1FAE1",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae1.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae1.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hand"
+    },
+    {
+        "name": "zipper-mouth-face",
+        "unicode": "🤐",
+        "hex": "1F910",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f910.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f910.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "face-with-raised-eyebrow",
+        "unicode": "🤨",
+        "hex": "1F928",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f928.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f928.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "neutral-face",
+        "unicode": "😐",
+        "hex": "1F610",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f610.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f610.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "expressionless-face",
+        "unicode": "😑",
+        "hex": "1F611",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f611.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f611.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "face-without-mouth",
+        "unicode": "😶",
+        "hex": "1F636",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f636.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f636.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "dotted-line-face",
+        "unicode": "🫥",
+        "hex": "1FAE5",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae5.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae5.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "face-in-clouds",
+        "unicode": "😶‍🌫️",
+        "hex": "1F636 200D 1F32B FE0F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f636-200d-1f32b-fe0f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f636-200d-1f32b-fe0f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "smirking-face",
+        "unicode": "😏",
+        "hex": "1F60F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "unamused-face",
+        "unicode": "😒",
+        "hex": "1F612",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f612.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f612.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "face-with-rolling-eyes",
+        "unicode": "🙄",
+        "hex": "1F644",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f644.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f644.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "grimacing-face",
+        "unicode": "😬",
+        "hex": "1F62C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62c.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "face-exhaling",
+        "unicode": "😮‍💨",
+        "hex": "1F62E 200D 1F4A8",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62e-200d-1f4a8.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62e-200d-1f4a8.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "lying-face",
+        "unicode": "🤥",
+        "hex": "1F925",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f925.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f925.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-neutral-skeptical"
+    },
+    {
+        "name": "relieved-face",
+        "unicode": "😌",
+        "hex": "1F60C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60c.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-sleepy"
+    },
+    {
+        "name": "pensive-face",
+        "unicode": "😔",
+        "hex": "1F614",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f614.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f614.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-sleepy"
+    },
+    {
+        "name": "sleepy-face",
+        "unicode": "😪",
+        "hex": "1F62A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-sleepy"
+    },
+    {
+        "name": "drooling-face",
+        "unicode": "🤤",
+        "hex": "1F924",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f924.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f924.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-sleepy"
+    },
+    {
+        "name": "sleeping-face",
+        "unicode": "😴",
+        "hex": "1F634",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f634.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f634.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-sleepy"
+    },
+    {
+        "name": "face-with-medical-mask",
+        "unicode": "😷",
+        "hex": "1F637",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f637.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f637.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "face-with-thermometer",
+        "unicode": "🤒",
+        "hex": "1F912",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f912.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f912.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "face-with-head-bandage",
+        "unicode": "🤕",
+        "hex": "1F915",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f915.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f915.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "nauseated-face",
+        "unicode": "🤢",
+        "hex": "1F922",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f922.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f922.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "face-vomiting",
+        "unicode": "🤮",
+        "hex": "1F92E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92e.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "sneezing-face",
+        "unicode": "🤧",
+        "hex": "1F927",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f927.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f927.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "hot-face",
+        "unicode": "🥵",
+        "hex": "1F975",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f975.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f975.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "cold-face",
+        "unicode": "🥶",
+        "hex": "1F976",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f976.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f976.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "woozy-face",
+        "unicode": "🥴",
+        "hex": "1F974",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f974.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f974.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "face-with-crossed-out-eyes",
+        "unicode": "😵",
+        "hex": "1F635",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f635.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f635.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "face-with-spiral-eyes",
+        "unicode": "😵‍💫",
+        "hex": "1F635 200D 1F4AB ",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f635-200d-1f4ab.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f635-200d-1f4ab.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "exploding-head",
+        "unicode": "🤯",
+        "hex": "1F92F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-unwell"
+    },
+    {
+        "name": "cowboy-hat-face",
+        "unicode": "🤠",
+        "hex": "1F920",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f920.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f920.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hat"
+    },
+    {
+        "name": "partying-face",
+        "unicode": "🥳",
+        "hex": "1F973",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f973.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hat"
+    },
+    {
+        "name": "disguised-face",
+        "unicode": "🥸",
+        "hex": "1F978",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f978.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f978.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-hat"
+    },
+    {
+        "name": "smiling-face-with-sunglasses",
+        "unicode": "😎",
+        "hex": "1F60E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f60e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f60e.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-glasses"
+    },
+    {
+        "name": "nerd-face",
+        "unicode": "🤓",
+        "hex": "1F913",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f913.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f913.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-glasses"
+    },
+    {
+        "name": "face-with-monocle",
+        "unicode": "🧐",
+        "hex": "1F9D0",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f9d0.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f9d0.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-glasses"
+    },
+    {
+        "name": "confused-face",
+        "unicode": "😕",
+        "hex": "1F615",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f615.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f615.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "face-with-diagonal-mouth",
+        "unicode": "🫤",
+        "hex": "1FAE4",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1fae4.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1fae4.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "worried-face",
+        "unicode": "😟",
+        "hex": "1F61F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "slightly-frowning-face",
+        "unicode": "🙁",
+        "hex": "1F641",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f641.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f641.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "frowning-face",
+        "unicode": "☹️",
+        "hex": "2639",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2639.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2639.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "face-with-open-mouth",
+        "unicode": "😮",
+        "hex": "1F62E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62e.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "hushed-face",
+        "unicode": "😯",
+        "hex": "1F62F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "astonished-face",
+        "unicode": "😲",
+        "hex": "1F632",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f632.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f632.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "flushed-face",
+        "unicode": "😳",
+        "hex": "1F633",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f633.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f633.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "pleading-face",
+        "unicode": "🥺",
+        "hex": "1F97A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f97a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f97a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "face-holding-back-tears",
+        "unicode": "🥹",
+        "hex": "1F979",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f979.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f979.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "frowning-face-with-open-mouth",
+        "unicode": "😦",
+        "hex": "1F626",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f626.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f626.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "anguished-face",
+        "unicode": "😧",
+        "hex": "1F627",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f627.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f627.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "fearful-face",
+        "unicode": "😨",
+        "hex": "1F628",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f628.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f628.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "anxious-face-with-sweat",
+        "unicode": "😰",
+        "hex": "1F630",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f630.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f630.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "sad-but-relieved-face",
+        "unicode": "😥",
+        "hex": "1F625",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f625.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f625.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "crying-face",
+        "unicode": "😢",
+        "hex": "1F622",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f622.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f622.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "loudly-crying-face",
+        "unicode": "😭",
+        "hex": "1F62D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62d.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "face-screaming-in-fear",
+        "unicode": "😱",
+        "hex": "1F631",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f631.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f631.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "confounded-face",
+        "unicode": "😖",
+        "hex": "1F616",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f616.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f616.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "persevering-face",
+        "unicode": "😣",
+        "hex": "1F623",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f623.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f623.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "disappointed-face",
+        "unicode": "😞",
+        "hex": "1F61E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f61e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f61e.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "downcast-face-with-sweat",
+        "unicode": "😓",
+        "hex": "1F613",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f613.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f613.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "weary-face",
+        "unicode": "😩",
+        "hex": "1F629",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f629.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f629.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "tired-face",
+        "unicode": "😫",
+        "hex": "1F62B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f62b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f62b.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "yawning-face",
+        "unicode": "🥱",
+        "hex": "1F971",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f971.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f971.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-concerned"
+    },
+    {
+        "name": "face-with-steam-from-nose",
+        "unicode": "😤",
+        "hex": "1F624",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f624.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f624.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "enraged-face",
+        "unicode": "😡",
+        "hex": "1F621",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f621.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f621.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "angry-face",
+        "unicode": "😠",
+        "hex": "1F620",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f620.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f620.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "face-with-symbols-on-mouth",
+        "unicode": "🤬",
+        "hex": "1F92C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f92c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f92c.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "smiling-face-with-horns",
+        "unicode": "😈",
+        "hex": "1F608",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f608.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f608.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "angry-face-with-horns",
+        "unicode": "👿",
+        "hex": "1F47F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f47f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f47f.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "skull",
+        "unicode": "💀",
+        "hex": "1F480",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f480.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f480.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "skull-and-crossbones",
+        "unicode": "☠️",
+        "hex": "2620",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2620.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2620.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-negative"
+    },
+    {
+        "name": "pile-of-poo",
+        "unicode": "💩",
+        "hex": "1F4A9",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a9.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a9.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "clown-face",
+        "unicode": "🤡",
+        "hex": "1F921",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f921.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f921.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "ogre",
+        "unicode": "👹",
+        "hex": "1F479",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f479.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f479.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "goblin",
+        "unicode": "👺",
+        "hex": "1F47A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f47a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f47a.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "ghost",
+        "unicode": "👻",
+        "hex": "1F47B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f47b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f47b.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "alien",
+        "unicode": "👽",
+        "hex": "1F47D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f47d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f47d.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "alien-monster",
+        "unicode": "👾",
+        "hex": "1F47E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f47e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f47e.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "robot",
+        "unicode": "🤖",
+        "hex": "1F916",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f916.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f916.png",
+        "category": "smileys-emotions",
+        "sub-category": "face-costume"
+    },
+    {
+        "name": "grinning-cat",
+        "unicode": "😺",
+        "hex": "1F63A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63a.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "grinning-cat-with-smiling-eyes",
+        "unicode": "😸",
+        "hex": "1F638",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f638.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f638.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "cat-with-tears-of-joy",
+        "unicode": "😹",
+        "hex": "1F639",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f639.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f639.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "smiling-cat-with-heart-eyes",
+        "unicode": "😻",
+        "hex": "1F63B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63b.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "cat-with-wry-smile",
+        "unicode": "😼",
+        "hex": "1F63C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63c.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "kissing-cat",
+        "unicode": "😽",
+        "hex": "1F63D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63d.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "weary-cat",
+        "unicode": "🙀",
+        "hex": "1F640",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f640.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f640.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "crying-cat",
+        "unicode": "😿",
+        "hex": "1F63F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63f.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "pouting-cat",
+        "unicode": "😾",
+        "hex": "1F63E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f63e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f63e.png",
+        "category": "smileys-emotions",
+        "sub-category": "cat-face"
+    },
+    {
+        "name": "see-no-evil-monkey",
+        "unicode": "🙈",
+        "hex": "1F648",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f648.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f648.png",
+        "category": "smileys-emotions",
+        "sub-category": "monkey-face"
+    },
+    {
+        "name": "hear-no-evil-monkey",
+        "unicode": "🙉",
+        "hex": "1F649",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f649.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f649.png",
+        "category": "smileys-emotions",
+        "sub-category": "monkey-face"
+    },
+    {
+        "name": "speak-no-evil-monkey",
+        "unicode": "🙊",
+        "hex": "1F64A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f64a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f64a.png",
+        "category": "smileys-emotions",
+        "sub-category": "monkey-face"
+    },
+    {
+        "name": "kiss-mark",
+        "unicode": "💋",
+        "hex": "1F48B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f48b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f48b.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "love-letter",
+        "unicode": "💌",
+        "hex": "1F48C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f48c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f48c.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "heart-with-arrow",
+        "unicode": "💘",
+        "hex": "1F498",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f498.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f498.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "heart-with-ribbon",
+        "unicode": "💝",
+        "hex": "1F49D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49d.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "sparkling-heart",
+        "unicode": "💖",
+        "hex": "1F496",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f496.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f496.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "growing-heart",
+        "unicode": "💗",
+        "hex": "1F497",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f497.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f497.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "beating-heart",
+        "unicode": "💓",
+        "hex": "1F493",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f493.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f493.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "revolving-hearts",
+        "unicode": "💞",
+        "hex": "1F49E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49e.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "two-hearts",
+        "unicode": "💕",
+        "hex": "1F495",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f495.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f495.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "heart-decoration",
+        "unicode": "💟",
+        "hex": "1F49F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49f.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49f.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "heart-exclamation",
+        "unicode": "❣️",
+        "hex": "2763",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2763.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2763.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "broken-heart",
+        "unicode": "💔",
+        "hex": "1F494",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f494.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f494.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "broken-heart-on-fire",
+        "unicode": "❤️‍🔥",
+        "hex": "2764 FE0F 200D 1F525",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2764-fe0f-200d-1f525.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2764-fe0f-200d-1f525.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "mending-heart",
+        "unicode": "❤️‍🩹",
+        "hex": "2764 FE0F 200D 1FA79",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2764-fe0f-200d-1fa79.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2764-fe0f-200d-1fa79.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "red-heart",
+        "unicode": "❤️",
+        "hex": "2764",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/2764.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "orange-heart",
+        "unicode": "🧡",
+        "hex": "1F9E1",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f9e1.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f9e1.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "yellow-heart",
+        "unicode": "💛",
+        "hex": "1F49B",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49b.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49b.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "green-heart",
+        "unicode": "💚",
+        "hex": "1F49A",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49a.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49a.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "blue-heart",
+        "unicode": "💙",
+        "hex": "1F499",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f499.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f499.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "purple-heart",
+        "unicode": "💜",
+        "hex": "1F49C",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f49c.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f49c.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "brown-heart",
+        "unicode": "🤎",
+        "hex": "1F90E",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f90e.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f90e.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "black-heart",
+        "unicode": "🖤",
+        "hex": "1F5A4",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f5a4.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f5a4.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "white-heart",
+        "unicode": "🤍",
+        "hex": "1F90D",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f90d.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f90d.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "hundred-points",
+        "unicode": "💯",
+        "hex": "1F4AF",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4af.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4af.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "anger-symbol",
+        "unicode": "💢",
+        "hex": "1F4A2",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a2.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a2.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "collision",
+        "unicode": "💥",
+        "hex": "1F4A5",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a5.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a5.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "dizzy",
+        "unicode": "💫",
+        "hex": "1F4AB",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4ab.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4ab.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "sweat-droplets",
+        "unicode": "💦",
+        "hex": "1F4A6",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a6.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a6.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "dashing-away",
+        "unicode": "💨",
+        "hex": "1F4A8",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a8.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a8.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "hole",
+        "unicode": "🕳",
+        "hex": "1F573",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f573.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f573.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "bomb",
+        "unicode": "💣",
+        "hex": "1F4A3",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a3.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a3.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "speech-balloon",
+        "unicode": "💬",
+        "hex": "1F4AC",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4ac.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4ac.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "eye-in-speech-bubble",
+        "unicode": "👁️‍🗨️",
+        "hex": "1F441 FE0F 200D 1F5E8 FE0F",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f441-200d-1f5e8.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f441-200d-1f5e8.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "left-speech-bubble",
+        "unicode": "🗨",
+        "hex": "1F5E8",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f5e8.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f5e8.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "right-anger-bubble",
+        "unicode": "🗯",
+        "hex": "1F5EF",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f5ef.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f5ef.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "thought-balloon",
+        "unicode": "💭",
+        "hex": "1F4AD",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4ad.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4ad.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    },
+    {
+        "name": "zzz",
+        "unicode": "💤",
+        "hex": "1F4A4",
+        "svg": "https://twemoji.maxcdn.com/v/latest/svg/1f4a4.svg",
+        "png": "https://twemoji.maxcdn.com/v/latest/72x72/1f4a4.png",
+        "category": "smileys-emotions",
+        "sub-category": "emotions"
+    }
 ]
