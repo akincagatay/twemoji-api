@@ -2,7 +2,7 @@ const router = require("express").Router();
 const emoji_data= require("./data");
  
 
-router.get('/:name',(req,res)=>
+router.get('/name/:name',(req,res)=>
 {
    try
    {
@@ -22,10 +22,32 @@ router.get('/:name',(req,res)=>
    catch(err){
         res.status(500).json(err);
    }
-   
 })
 
-router.get('/:category',async(req,res)=>
+// Get All Data with Similar Name
+router.get('/similarName/:similarname',(req,res)=>
+{
+   try
+   {
+       var name = req.params.name;
+       let respondList = new Array();
+       for(let i = 0; i < emoji_data.length; i++) 
+       {  
+           let item = emoji_data[i];
+           if(item.name.includes(name.toLowerCase()))
+           {
+               respondList.push(item.png); 
+           }     
+       }
+       res.status(200).json(respondList);   
+   }
+   catch(err){
+       res.status(500).json(err);
+   }         
+})
+
+
+router.get('/category/:category',async(req,res)=>
 {
     try
     {

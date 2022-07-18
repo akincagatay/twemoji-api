@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const emoji_data= require("./data");
 
-router.get('/:name',async(req,res)=>
+router.get('/name/:name',async(req,res)=>
 {
     try
     {
@@ -23,7 +23,7 @@ router.get('/:name',async(req,res)=>
     } 
 })
 
- // Get likely
+ // Get All Data with Similar Name
  router.get('/similarName/:similarname',(req,res)=>
  {
     try
@@ -35,7 +35,7 @@ router.get('/:name',async(req,res)=>
             let item = emoji_data[i];
             if(item.name.includes(name.toLowerCase()))
             {
-                respondList.push(item); 
+                respondList.push(item.svg); 
             }     
         }
         res.status(200).json(respondList);   
