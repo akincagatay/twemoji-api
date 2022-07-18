@@ -24,7 +24,7 @@ router.get('/name/:name',async(req,res)=>
 })
 
 // Get All Data with Similar Name
-router.get('/similarName/:similarname',(req,res)=>
+router.get('/similarname/:similarname',(req,res)=>
 {
    try
    {
