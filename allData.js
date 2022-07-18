@@ -1,7 +1,5 @@
 const router = require("express").Router();
-var fs=require('fs');
-let rawdata = fs.readFileSync('emoji_data.json');
-let emoji_data = JSON.parse(rawdata);
+const emoji_data = require("./data");
 
 router.get("/",async (req, res) =>{
     try{

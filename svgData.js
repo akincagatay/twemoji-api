@@ -16,7 +16,6 @@ router.get('/:name',async(req,res)=>
             
             if(item.name === name.toLowerCase())
             {
-                respondList.push(item.name); 
                 respondList.push(item.svg);  
             }
         }     
