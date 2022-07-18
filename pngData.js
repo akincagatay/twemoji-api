@@ -47,7 +47,7 @@ router.get('/:category',async(req,res)=>
     }  
 })
 
-router.get('/:subcategory',async(req,res)=>
+router.get('/subcategory/:subcategory',async(req,res)=>
 {
     try
     {

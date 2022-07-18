@@ -34,7 +34,7 @@ router.get("/",async (req, res) =>{
  })
 
  // Get likely
- router.get('/similarName/:similarname',(req,res)=>
+ router.get('/similarname/:similarname',(req,res)=>
  {
     try
     {
