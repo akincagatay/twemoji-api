@@ -1,16 +1,16 @@
 # twemoji-api
-## Basic Twemoji API
-Twemoji is an API where you can easily get Twitter Emojis. Twitter API returns Emoji names, unicodes, hex, svg and png links.
+## Basic Twemoji API</br>
+Twemoji is an API where you can easily get Twitter Emojis. Twitter API returns Emoji names, unicodes, hex, svg and png links.</br>
 
-#Routes<
+### Routes</br>
 There are 4 different route URLs.</br>
 *-**"/name/:name"** returns the emoji with the responded name.</br>
 "-**/similarname/:similarname"** returns all emojis with the containing word/name.</br>
 "-**/category/:category"** returns all emojis with the requested category.</br>
 "-**/subcategory/:subcategory"** returns all emojis with the requested sub category.*</br>
 
-#All Route Links
-[^1]**All Data Routes**</br>
+### All Route Links</br>
+**All Data Routes**</br>
 *-https://twemoji-api.herokuapp.com/v1/allData</br>
 -https://twemoji-api.herokuapp.com/v1/name/:name</br>
 -https://twemoji-api.herokuapp.com/v1/similarname/:similarname</br>
