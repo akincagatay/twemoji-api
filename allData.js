@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const emoji_data = require("./data");
+const {emoji_data} = require("./data");
 
 router.get("/",async (req, res) =>{
     try{
