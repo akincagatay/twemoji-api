@@ -45,7 +45,7 @@ router.get("/",async (req, res) =>{
         for(let i = 0; i < emoji_data.length; i++) 
         {  
             let item = emoji_data[i];
-            if(item.category.includes(category.toLowerCase()))
+            if(item.category===category.toLowerCase())
             {
                 respondList.push(item) 
             }     
