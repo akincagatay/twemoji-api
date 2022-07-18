@@ -5,7 +5,7 @@ let emoji_data = JSON.parse(rawdata);
 
 router.get("/",async (req, res) =>{
     try{
-        res.status(200).json(res);
+        res.status(200).json(emoji_data);
     }
     catch(err){
         res.status(500).json(err);
