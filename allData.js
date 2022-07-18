@@ -3,8 +3,14 @@ var fs=require('fs');
 let rawdata = fs.readFileSync('emoji_data.json');
 let emoji_data = JSON.parse(rawdata);
 
-router.get("/",function(req, res){
-    res.send(emoji_data);
+router.get("/",async (req, res) =>{
+    try{
+        res.status(200).json(res);
+    }
+    catch(err){
+        res.status(500).json(err);
+    }
+    
  });
 
  // Get likely
