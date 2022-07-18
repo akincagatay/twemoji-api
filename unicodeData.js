@@ -1,28 +1,26 @@
 const router = require("express").Router();
 const emoji_data= require("./data");
- 
 
-router.get('/:name',(req,res)=>
+router.get('/:name',async(req,res)=>
 {
-   try
-   {
+    try
+    {
         var name = req.params.name;
         let respondList = new Array();
         for(let i = 0; i < emoji_data.length; i++)
         { 
             let item = emoji_data[i];
-        
-            if(item.name === name)
+            
+            if(item.name === name.toLowerCase())
             {
-                respondList.push(item.png);
+                respondList.push(item.unicode);  
             }
         }     
         res.status(200).json(respondList);   
-   }
-   catch(err){
+    }
+    catch(err){
         res.status(500).json(err);
-   }
-   
+    } 
 })
 
 router.get('/:category',async(req,res)=>
@@ -37,7 +35,7 @@ router.get('/:category',async(req,res)=>
             
             if(item.category === category.toLowerCase())
             {
-                respondList.push(item.png);  
+                respondList.push(item.unicode);  
             }
         }     
         res.status(200).json(respondList);   
@@ -59,7 +57,7 @@ router.get('/:subcategory',async(req,res)=>
             
             if(item.sub_category === sub_category.toLowerCase())
             {
-                respondList.push(item.png);  
+                respondList.push(item.unicode);  
             }
         }     
         res.status(200).json(respondList);   

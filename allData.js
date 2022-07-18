@@ -11,8 +11,30 @@ router.get("/",async (req, res) =>{
     
  });
 
+ router.get('/name/:name',async (req,res)=>
+ {
+    try
+    {
+        var name = req.params.name;
+        let respondList = new Array();
+        for(let i = 0; i < emoji_data.length; i++) 
+        {  
+            let item = emoji_data[i];
+            if(item.name===name.toLowerCase())
+            {
+                respondList.push(item) 
+            }     
+        }
+        res.status(200).json(respondList);    
+    }
+    catch(err){
+        res.status(500).json(err);
+    }
+         
+ })
+
  // Get likely
- router.get('/name/:name',(req,res)=>
+ router.get('/similarName/:similarname',(req,res)=>
  {
     try
     {
@@ -30,8 +52,7 @@ router.get("/",async (req, res) =>{
     }
     catch(err){
         res.status(500).json(err);
-    }
-          
+    }         
  })
 
  router.get('/category/:category',async (req,res)=>

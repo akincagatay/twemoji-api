@@ -1,8 +1,5 @@
 const router = require("express").Router();
-var fs = require('fs');
-let rawdata = fs.readFileSync('emoji_data.json');
-let emoji_data = JSON.parse(rawdata);
- 
+const emoji_data= require("./data");
 
 router.get('/:name',async(req,res)=>
 {
@@ -25,6 +22,28 @@ router.get('/:name',async(req,res)=>
         res.status(500).json(err);
     } 
 })
+
+ // Get likely
+ router.get('/similarName/:similarname',(req,res)=>
+ {
+    try
+    {
+        var name = req.params.name;
+        let respondList = new Array();
+        for(let i = 0; i < emoji_data.length; i++) 
+        {  
+            let item = emoji_data[i];
+            if(item.name.includes(name.toLowerCase()))
+            {
+                respondList.push(item); 
+            }     
+        }
+        res.status(200).json(respondList);   
+    }
+    catch(err){
+        res.status(500).json(err);
+    }         
+ })
 
 router.get('/:category',async(req,res)=>
 {
