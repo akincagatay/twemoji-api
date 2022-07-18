@@ -62,7 +62,7 @@ router.get("/",async (req, res) =>{
  {
     try
     {
-        var sub_category = req.params.sub-category;
+        var sub_category = req.params.subcategory;
         let respondList = new Array();
         for(let i = 0; i < emoji_data.length; i++) 
         {  
