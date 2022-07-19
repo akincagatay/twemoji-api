@@ -37,5 +37,5 @@ There are 4 different route URLs.</br>
 -https://twemoji-api.herokuapp.com/v1/hex/category/:category</br>
 -https://twemoji-api.herokuapp.com/v1/hex/subcategory/:subcategory*</br>
 
-##LICENSE
+## LICENSE </br>
 [Twitter Emojis](https://github.com/twitter/twemoji) Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
